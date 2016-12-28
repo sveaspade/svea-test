@@ -1,4 +1,4 @@
 # svea-test
-Little test repository
+Little repository saving docker related stuff
 
-Makeing some changes
+Making some changes and uploading books
